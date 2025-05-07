@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Port Vila Guide</title>
+  <link>http://www.portvilaguide.com/</link>
+  <description>The Online Home For Port Vila In Vanuatu</description>
+  <item>
+    <title>First RSS Publiction</title>
+    <link>http://www.portvilaguide.com/</link>
+    <description>Port Vila Guide RSS Feed Coming Soon. Subscribe For All The Latest Port Vila Updates</description>
+	<language>en-gb</language>
+  </item>
+   
+  
+</channel>
+
+</rss>
+
+<!-- This is an RSS comment -->
